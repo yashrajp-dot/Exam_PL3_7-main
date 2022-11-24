@@ -15,7 +15,7 @@ const Result = () => {
                     <div className="container my-5">
                         <div className="row row-cols-1 row-cols-md-2 g-4 my-3">
                             <div className="col">
-                                <h5 className="fw-bold">Name : Ramesh Gupata </h5>
+                                <h5 className="fw-bold">Name : Ram Sita </h5>
                                 <h5 className="fw-bold">PRN : 2020BTECS34698 </h5>
                                 <h5 className="fw-bold">Branch : Computer Science and Engineering </h5>
                                 <h5 className="fw-bold">Email : rameshgupat@walchadnsangli.ac.in </h5>
